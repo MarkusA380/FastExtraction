@@ -1,0 +1,10 @@
+class Header
+{
+    gameType = COOP;
+    minPlayers = 1;
+    maxPlayers = 4;
+};
+
+respawn = "BASE";
+respawndelay = 999999;
+respawnTemplates[] = {"ace_spectator"};
